@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web development**
 
-- 👨‍💻 All of my projects are available at [https://anishhazra.github.io/My-Portfolio-/](https://anishhazra.github.io/My-Portfolio-/)
+- 👨‍💻 All of my projects are available at [https://anishportfolioo.netlify.app/](https://anishportfolioo.netlify.app/)
 
 - 📫 How to reach me **anishhazra108@gmail.com**
 
