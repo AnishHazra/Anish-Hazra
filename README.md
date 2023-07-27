@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web development**
 
-- 👨‍💻 All of my projects are available at ([anishhazra.me](https://www.linkedin.com/in/anish-hazra-667396176/))
+- 👨‍💻 All of my projects are available at ([anishhazra](https://www.linkedin.com/in/anish-hazra-667396176/))
 
 - 📫 How to reach me **anishhazra108@gmail.com**
 
