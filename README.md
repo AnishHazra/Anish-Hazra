@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [anishhazra.me](anishhazra.me)
+- 👨‍💻 All of my projects are available at [anishhazra.me](https://anishhazra.me/)
 
 - 📫 How to reach me **anishhazra108@gmail.com**
 
