@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQE37UKwivp1dQ/profile-displaybackgroundimage-shrink_350_1400/0/1693170185927?e=1698883200&v=beta&t=1aP_ZUJfk1xnQfKliCyESuchYBroFzo2JVkzuW8PtX0)
 <h1 align="center">Hi 👋, I'm Anish Hazra</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif">
