@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anish Hazra</h1>
-<h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif">
+<h3 align="center">A passionate Software Engineer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2d/8a/46/2d8a46428de04b8c1f101f7c403b326f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishhazra&label=Profile%20views&color=0e75b6&style=flat" alt="anishhazra" /> </p>
 
 
 
-- 🌱 I’m currently learning **Flutter Development**
+- 🌱 I’m currently learning **IOS Development**
 
 - 👨‍💻 All of my projects are available at [anishhazra.me](https://anishhazra.me/)
 
