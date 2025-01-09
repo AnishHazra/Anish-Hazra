@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anish Hazra</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://preview.redd.it/doubt-will-season-3-arc-not-have-an-epic-battle-action-so-v0-kcbpx3j5091b1.gif?width=600&auto=webp&s=dc5ce7f3222229521e7f291984f381d50b13b10e">
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/9180b598-bef8-47ad-b5f0-948254776bc5">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishhazra&label=Profile%20views&color=0e75b6&style=flat" alt="anishhazra" /> </p>
-
 
 
 - 🌱 I’m currently learning **IOS Development**
