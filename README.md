@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **IOS Development**
 
-- 👨‍💻 All of my projects are available at [anishhazra.me](https://anishhazra.me/)
+- 👨‍💻 All of my projects are available at [anish_codes]([https://anishhazra.me/](https://www.instagram.com/anish_codes/))
 
 - 📫 How to reach me **anishhazra108@gmail.com**
 
